@@ -37,18 +37,7 @@ Your submission file should be in csv format, with a header and columns names : 
 
 # some EDA
 
-![image](https://github.com/user-attachments/assets/73a6a569-9dee-447c-a8ba-fa7e44fb226d)
+![image](https://github.com/user-attachments/assets/bb5fd180-a156-4c6f-ad3e-a26f073f6230)
 
-![image](https://github.com/user-attachments/assets/6488aab5-5fc7-4fa6-ac51-06a6f7b55238)
-
-![image](https://github.com/user-attachments/assets/79148b41-ec2a-474c-9186-8d90cac0021c)
-
-![image](https://github.com/user-attachments/assets/a3ca60f2-8847-45ea-b7fb-25c63cea6610)
-
-![image](https://github.com/user-attachments/assets/92cf9ed0-e43f-4bbb-b01d-134f2da4cd67)
-
-![image](https://github.com/user-attachments/assets/7b7d7de0-fcb1-4a71-8841-8be1b315cbd0)
-
-![image](https://github.com/user-attachments/assets/fa33b285-777a-4bb3-8fe3-4007ad009355)
 
 Future scope : this model can be saved as the .h5 file and can be deployed on servers to integrate it in the applications required like a webapp etc
