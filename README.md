@@ -6,8 +6,6 @@ Data is taken from the kaggle competition of "Understanding Clouds using Satelli
 
 Description:
 
-![image](https://github.com/user-attachments/assets/b66230ea-3776-4e29-84f2-62b2233ee62c)
-
 Climate change has been at the top of our minds and on the forefront of important political decision-making for many years. We hope you can use this competition’s dataset to help demystify an important climatic variable. Scientists, like those at Max Planck Institute for Meteorology, are leading the charge with new research on the world’s ever-changing atmosphere and they need your help to better understand the clouds.
 
 Shallow clouds play a huge role in determining the Earth's climate. They’re also difficult to understand and to represent in climate models. By classifying different types of cloud organization, researchers at Max Planck hope to improve our physical understanding of these clouds, which in turn will help us build better climate models.
