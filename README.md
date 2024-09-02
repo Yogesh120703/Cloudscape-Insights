@@ -37,7 +37,10 @@ Your submission file should be in csv format, with a header and columns names : 
 
 # some EDA
 
-![image](https://github.com/user-attachments/assets/bb5fd180-a156-4c6f-ad3e-a26f073f6230)
+piechart: ![image](https://github.com/user-attachments/assets/bb5fd180-a156-4c6f-ad3e-a26f073f6230)
+
+csv file : ![image](https://github.com/user-attachments/assets/6f9cdeef-2bcf-4849-a8f7-1a23eaa6ef10)
+
 
 
 Future scope : this model can be saved as the .h5 file and can be deployed on servers to integrate it in the applications required like a webapp etc
