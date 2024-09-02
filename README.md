@@ -39,7 +39,8 @@ Your submission file should be in csv format, with a header and columns names : 
 
 piechart: ![image](https://github.com/user-attachments/assets/bb5fd180-a156-4c6f-ad3e-a26f073f6230)
 
-csv file : ![image](https://github.com/user-attachments/assets/6f9cdeef-2bcf-4849-a8f7-1a23eaa6ef10)
+checkout https://www.kaggle.com/teluguyogesh for more eda etc;
+
 
 
 
